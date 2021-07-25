@@ -1,0 +1,16 @@
+D:\Dev\teste\branches\bin\Debug\net5.0\branches.exe
+D:\Dev\teste\branches\bin\Debug\net5.0\branches.deps.json
+D:\Dev\teste\branches\bin\Debug\net5.0\branches.runtimeconfig.json
+D:\Dev\teste\branches\bin\Debug\net5.0\branches.runtimeconfig.dev.json
+D:\Dev\teste\branches\bin\Debug\net5.0\branches.dll
+D:\Dev\teste\branches\bin\Debug\net5.0\ref\branches.dll
+D:\Dev\teste\branches\bin\Debug\net5.0\branches.pdb
+D:\Dev\teste\branches\obj\Debug\net5.0\branches.csproj.AssemblyReference.cache
+D:\Dev\teste\branches\obj\Debug\net5.0\branches.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\teste\branches\obj\Debug\net5.0\branches.AssemblyInfoInputs.cache
+D:\Dev\teste\branches\obj\Debug\net5.0\branches.AssemblyInfo.cs
+D:\Dev\teste\branches\obj\Debug\net5.0\branches.csproj.CoreCompileInputs.cache
+D:\Dev\teste\branches\obj\Debug\net5.0\branches.dll
+D:\Dev\teste\branches\obj\Debug\net5.0\ref\branches.dll
+D:\Dev\teste\branches\obj\Debug\net5.0\branches.pdb
+D:\Dev\teste\branches\obj\Debug\net5.0\branches.genruntimeconfig.cache
